@@ -1,5 +1,7 @@
 # snuc-sem3-datavisualization-lab
 
+<b>Link to my Tableau Public profile:</b> [Abdullah Sheriff's Tableau Profile](https://public.tableau.com/app/profile/abdullah.sheriff/vizzes)
+
 Subject: <b>Exploratory Data Analysis and Data Visualization</b> <br>
 Semester: <b>3</b> <br>
 Year: <b>2023</b>
