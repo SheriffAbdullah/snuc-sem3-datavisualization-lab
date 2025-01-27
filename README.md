@@ -4,7 +4,7 @@
 
 Subject: <b>Exploratory Data Analysis and Data Visualization</b> <br>
 Semester: <b>3</b> <br>
-Year: <b>2023</b>
+Year: <b>2022</b>
 
 This repository contains:
 * Py programs
